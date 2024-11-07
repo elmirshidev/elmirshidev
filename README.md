@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as React dev.<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about React<br>
+🔭 I’m currently working as Javascript dev.<br>🌱 I’m currently learning everyrhing<br>💬 Ask me about Tech<br>
 
 
 ## 🌐 Socials:
